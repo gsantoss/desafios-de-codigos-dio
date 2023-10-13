@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesafiosDeCodigosDIO.iml" filepath="$PROJECT_DIR$/DesafiosDeCodigosDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-de-codigos-dio.iml" filepath="$PROJECT_DIR$/desafios-de-codigos-dio.iml" />
     </modules>
   </component>
 </project>
